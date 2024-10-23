@@ -4,11 +4,26 @@ As a Data Scientist, I specialize in tackling complex AI challenges, with a focu
 
 ### Current Projects 🚀
 
+
 ### Tech Stack 🛠️
 
-<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Tech Stack" width="50"/>
-
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PyTorch-Dark.svg" alt="Tech Stack" width="50"/>
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" title="Python" width="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" title="PyTorch" width="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Vue.js.svg" title="Vue.js" width="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" title="FastAPI" width="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" title="Tailwind CSS" width="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Java.svg" title="Java" width="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Haskell.svg" title="Haskell" width="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" title="PostgreSQL" width="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/AWS.svg" title="AWS" width="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" title="Google Cloud" width="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" title="Pandas" width="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" title="NumPy" width="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" title="C#" width="50"/>
+  <img src="https://artwork.lfaidata.foundation/projects/milvus/icon/color/milvus-icon-color.png" title="Milvus" width="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Android-Studio.svg" title="Android Dev" width="50"/>
+</p>
 
 
 <!--
