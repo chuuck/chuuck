@@ -5,7 +5,7 @@ As a Data Scientist, I specialize in tackling complex AI challenges, with a focu
 - 🔭 I’m currently working on Aerial Image Classifier
 - 🌱 I’m currently learning how to build effective products in the AI space
 - 💼 For the past 2.5 years have been working as Data Scientist @IBM
-- 🌍  I'm based in the United Kingdom
+- 🌍  I'm based in the London, United Kingdom
 - 👨‍🎓 I graduated from University of Southampton where I attained MEng Computer Science with Aritificial Intelligence degree.
 
 
