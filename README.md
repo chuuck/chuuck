@@ -19,7 +19,7 @@ As a Data Scientist, I specialize in tackling complex AI challenges, with a focu
   <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" title="Tailwind CSS" width="50"/>
   <img src="https://icon.icepanel.io/Technology/svg/Java.svg" title="Java" width="50"/>
   <img src="https://icon.icepanel.io/Technology/svg/Haskell.svg" title="Haskell" width="50"/>
-  <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" title="PostgreSQL" width="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" title="PostgreSQL" width="50"/><br>
   <img src="https://icon.icepanel.io/Technology/svg/AWS.svg" title="AWS" width="50"/>
   <img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" title="Google Cloud" width="50"/>
   <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" title="Pandas" width="50"/>
