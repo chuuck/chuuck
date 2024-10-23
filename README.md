@@ -1,12 +1,12 @@
 ## Hi, I'm Chuck 👋
 
-As a Data Scientist, I specialize in tackling complex AI challenges, with a focus on building innovative AI products. My work spans across the domains of speech, computer vision, and natural language processing, where I’ve developed cutting-edge solutions that push the boundaries of machine learning. My passion lies in transforming AI research into impactful, real-world applications.
+As a Data Scientist, I specialize in solving complex AI challenges, with a focus on building innovative AI products. My work spans the domains of speech, computer vision, and natural language processing, where I’ve developed cutting-edge solutions that push the boundaries of machine learning. I am passionate about transforming AI research into impactful, real-world applications.
 
-- 🔭 I’m currently working on Aerial Image Classifier
-- 🌱 I’m currently learning how to build effective products in the AI space
-- 💼 For the past 2 years have been working as Data Scientist @IBM
-- 🌍  I'm based in the London, United Kingdom
-- 👨‍🎓 I graduated from University of Southampton where I attained MEng Computer Science with Aritificial Intelligence degree.
+- 🔭 I’m currently working on an Aerial Image Classifier.
+- 🌱 I’m learning how to build effective products in the AI space.
+- 💼 For the past 2 years, I have worked as a Data Scientist at IBM.
+- 🌍 I’m based in London, United Kingdom.
+- 👨‍🎓 I graduated from the University of Southampton with an MEng in Computer Science and Artificial Intelligence.
 
 
 ### Tech Stack 🛠️
