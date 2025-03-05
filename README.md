@@ -31,3 +31,5 @@ As a Data Scientist, I specialize in solving complex AI challenges, with a focus
 
 </p>
 
+Link to my [CV](https://github.com/chuuck/resume/blob/main/CV_Chuck.pdf)
+
